@@ -1,0 +1,7 @@
+com\selenium\framework\moduleTestScripts\LoginTestScript.class
+com\selenium\framework\moduleTestScripts\TabWomenScript.class
+com\selenium\framework\moduleTestScripts\CartTestScript.class
+com\selenium\framework\automatedTests\cartPageTests\CartInitialTest.class
+com\selenium\framework\automatedTests\tabWomenTests\TabWomenLinkTest.class
+com\selenium\framework\automatedTests\tabWomenTests\FilterCountTest.class
+com\selenium\framework\automatedTests\loginTests\LoginTest.class

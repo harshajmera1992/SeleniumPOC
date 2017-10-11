@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="130175" started-at="2017-09-11T09:58:43Z" finished-at="2017-09-11T10:00:53Z">
+    <groups>
+    </groups>
+    <test name="CartTest" duration-ms="58699" started-at="2017-09-11T09:58:43Z" finished-at="2017-09-11T09:59:41Z">
+      <class name="com.selenium.framework.moduleTestScripts.CartTestScript">
+        <test-method status="PASS" signature="validateLogin()[pri:0, instance:com.selenium.framework.moduleTestScripts.CartTestScript@3d24753a]" name="validateLogin" duration-ms="58690" started-at="2017-09-11T15:28:43Z" finished-at="2017-09-11T15:29:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+      </class> <!-- com.selenium.framework.moduleTestScripts.CartTestScript -->
+    </test> <!-- CartTest -->
+    <test name="LoginTest" duration-ms="58994" started-at="2017-09-11T09:58:43Z" finished-at="2017-09-11T09:59:42Z">
+      <class name="com.selenium.framework.moduleTestScripts.LoginTestScript">
+        <test-method status="PASS" signature="validateLogin()[pri:0, instance:com.selenium.framework.moduleTestScripts.LoginTestScript@35bbe5e8]" name="validateLogin" duration-ms="58986" started-at="2017-09-11T15:28:43Z" finished-at="2017-09-11T15:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+      </class> <!-- com.selenium.framework.moduleTestScripts.LoginTestScript -->
+    </test> <!-- LoginTest -->
+    <test name="WomenTabTest" duration-ms="130175" started-at="2017-09-11T09:58:43Z" finished-at="2017-09-11T10:00:53Z">
+      <class name="com.selenium.framework.moduleTestScripts.TabWomenScript">
+        <test-method status="PASS" signature="validateTabWomen()[pri:0, instance:com.selenium.framework.moduleTestScripts.TabWomenScript@2812cbfa]" name="validateTabWomen" duration-ms="130167" started-at="2017-09-11T15:28:43Z" finished-at="2017-09-11T15:30:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTabWomen -->
+      </class> <!-- com.selenium.framework.moduleTestScripts.TabWomenScript -->
+    </test> <!-- WomenTabTest -->
+  </suite> <!-- Suite -->
+</testng-results>
