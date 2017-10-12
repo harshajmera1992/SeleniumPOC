@@ -1,3 +1,1 @@
-Test file
-No resources present
-Please ignore
+Test file.No resources present
